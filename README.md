@@ -32,14 +32,14 @@ Esse projeto foi realizado durante o período de estudos do módulo de CS do cur
 
 ## ⚙️ Funcionalidades
 
-[x] Raspagem de dados
-[x] Salvar dados no banco de dados
-[ ] Verificar validade dos CPF's
-[ ] Higienização dos dados
-[ ] Testes unitários com cobertura de pelo menos 90%
-[ ] Estrutura
-[ ] Criar funções para manipular os dados salvos
-[ ] Melhoria de performance
+- [ ] Raspagem de dados
+- [ ] Salvar dados no banco de dados
+- [ ] Verificar validade dos CPF's
+- [ ] Higienização dos dados
+- [ ] Testes unitários com cobertura de pelo menos 90%
+- [ ] Estrutura
+- [ ] Criar funções para manipular os dados salvos
+- [ ] Melhoria de performance
 
 > Os itens não assinalados ainda deverão ser implementados. Outras funcionalidades ainda não previstas poderão ser necessárias para completar esse projeto.
 
