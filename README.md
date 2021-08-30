@@ -1,4 +1,4 @@
-# Webscraping com Python e MongoDB
+# Webscraping com Python e MongoDBCancel changes
 
 ## ⭐ Boas vindas ao repositório
 
@@ -32,8 +32,8 @@ Esse projeto foi realizado durante o período de estudos do módulo de CS do cur
 
 ## ⚙️ Funcionalidades
 
-- [ ] Raspagem de dados
-- [ ] Salvar dados no banco de dados
+- [X] Raspagem de dados
+- [X] Salvar dados no banco de dados
 - [ ] Verificar validade dos CPF's
 - [ ] Higienização dos dados
 - [ ] Testes unitários com cobertura de pelo menos 90%
